@@ -1,1 +1,1 @@
-This is the accounts microservice by Sushobh Nadiger. Welcome to the Jungle brother!
+This is a simple express app template to quickly get started with node server.
